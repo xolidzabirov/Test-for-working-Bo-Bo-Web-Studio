@@ -1,0 +1,108 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "title_tg": "Студияи худвору дар марказ",
+      "title_ru": "Уютная студия в центре города",
+      "title_en": "Cozy studio in the city center",
+      "price": 45000,
+      "rooms": 1,
+      "area": 32,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Студияи заибо дар сабки дизайни муосир. Ҷойгир дар маркази тарихии шахр, танҳо 5 дақиқаи пиёда аз метро.",
+      "description_ru": "Стильная и компактная студия с современным дизайнерским ремонтом. Расположена в историческом центре города, всего в 5 минутах пешком от метро.",
+      "description_en": "Stylish and compact studio with modern design. Located in the historic city center, just 5 minutes walk from the metro."
+    },
+    {
+      "id": 2,
+      "title_tg": "Квартираи муосири ду-отоқ",
+      "title_ru": "Современная двухкомнатная квартира",
+      "title_en": "Modern two-room apartment",
+      "price": 75000,
+      "rooms": 2,
+      "area": 54,
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Квартираи равшан дар комплекси сукун-и нави синфи бизнес. Гуриши кишворез-бошад, спальня",
+      "description_ru": "Светлая 2-комнатная квартира в новом жилом комплексе бизнес-класса. Просторная кухня-гостиная, отдельная спальня с гардеробной зоной.",
+      "description_en": "Bright 2-room apartment in a new business-class residential complex. Spacious kitchen-living room, separate bedroom with wardrobe."
+    },
+    {
+      "id": 3,
+      "title_tg": "Квартираи кушода сеотоқи оилавӣ",
+      "title_ru": "Просторная трехкомнатная квартира для семьи",
+      "title_en": "Spacious three-room family apartment",
+      "price": 120000,
+      "rooms": 3,
+      "area": 85,
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Квартираи рост дар сеотоқ дар планировкаи хуб. Ду спалняҳо мустақил, зали кушода",
+      "description_ru": "Комфортабельная трехкомнатная квартира с отличной планировкой. Две отдельные спальни, просторный зал, два санузла.",
+      "description_en": "Comfortable three-room apartment with excellent layout. Two separate bedrooms, spacious hall, two bathrooms."
+    },
+    {
+      "id": 4,
+      "title_tg": "Квартираи як-отоқи равшан",
+      "title_ru": "Светлая однокомнатная квартира с лоджией",
+      "title_en": "Bright one-room apartment with loggia",
+      "price": 52000,
+      "rooms": 1,
+      "area": 40,
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Квартираи хуб дар як-отоқ бо лоджияи узунҷо",
+      "description_ru": "Уютная однокомнатная квартира с большой застекленной лоджией.",
+      "description_en": "Cozy one-room apartment with a large glazed loggia."
+    },
+    {
+      "id": 5,
+      "title_tg": "Апартаментҳои ду-отоқи сабки лофт",
+      "title_ru": "Двухкомнатные апартаменты в стиле лофт",
+      "title_en": "Two-room loft-style apartments",
+      "price": 89000,
+      "rooms": 2,
+      "area": 62,
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Апартаментҳои дизайнер дар сабки лофт бо шохҳои баланд",
+      "description_ru": "Стильные дизайнерские апартаменты в стиле лофт с высокими потолками",
+      "description_en": "Stylish designer apartments in loft style with high ceilings"
+    },
+    {
+      "id": 6,
+      "title_tg": "Пентҳауси люкс сеотоқ",
+      "title_ru": "Люкс трехкомнатный пентхаус",
+      "title_en": "Luxury three-room penthouse",
+      "price": 150000,
+      "rooms": 3,
+      "area": 110,
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Пентҳауси раҷабхоҳи бо намунаи панорамие дар шахр",
+      "description_ru": "Роскошный пентхаус с панорамным видом на весь город",
+      "description_en": "Luxurious penthouse with panoramic city views"
+    },
+    {
+      "id": 7,
+      "title_tg": "Резиденсияи премиал чор-отоқ",
+      "title_ru": "Премиальная четырехкомнатная резиденция",
+      "title_en": "Premium four-room residence",
+      "price": 220000,
+      "rooms": 4,
+      "area": 145,
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Квартираи элит чор-отоқ дар хонаи клубӣ",
+      "description_ru": "Элитная 4-комнатная квартира в клубном доме",
+      "description_en": "Elite 4-room apartment in a club house"
+    },
+    {
+      "id": 8,
+      "title_tg": "Квартираи хуби ду-отоқ баҳри парк",
+      "title_ru": "Уютная двухкомнатная квартира у парка",
+      "title_en": "Cozy two-room apartment by the park",
+      "price": 68000,
+      "rooms": 2,
+      "area": 50,
+      "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+      "description_tg": "Квартираи хуби ду-отоқ бо танзариши парки қаҳармонӣ",
+      "description_ru": "Прекрасная 2-комнатная квартира, окна которой выходят на центральный городской парк",
+      "description_en": "Beautiful 2-room apartment overlooking the central city park"
+    }
+  ]
+}
