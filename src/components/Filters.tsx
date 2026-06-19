@@ -1,4 +1,4 @@
-'use client';
+  'use client';
 
 import { useEffect, useState, useRef } from 'react';
 import { useRouter, useSearchParams, usePathname } from 'next/navigation';
@@ -88,14 +88,14 @@ export default function Filters({ locale }: FiltersProps) {
     if (locale === 'tg') {
       return {
         title: 'Филтрҳо',
-        rooms: 'Отоқҳо',
-        roomsLabel: 'Миқдори отоқҳо',
+        rooms: 'Утоқҳо',
+        roomsLabel: 'Миқдори утоқҳо',
         all: 'Ҳама',
         priceLabel: 'Нарх (Руб)',
         from: 'Аз',
         to: 'То',
-        clear: 'Озгзо кунед',
-        reset: 'Озгзо кунед',
+        clear: 'Тоза кунед',
+        reset: 'Аз нав сар кунед',
       };
     } else if (locale === 'ru') {
       return {
